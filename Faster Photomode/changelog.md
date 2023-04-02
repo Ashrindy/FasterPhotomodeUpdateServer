@@ -1,2 +1,2 @@
-## Faster Photomode V0.2
-- Added an Update Server
+## Faster Photomode V1.0
+- Fixed all of the speeds
