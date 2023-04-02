@@ -1,2 +1,2 @@
 add mod.ini
-add raw
+add raw/misc/photomode.pac
